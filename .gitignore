@@ -6,3 +6,6 @@
 02-back-end-dev-and-apis/04-back-end-projects/01-timestamp-microservice/.env
 02-back-end-dev-and-apis/04-back-end-projects/02-request-header-parser-microservice/node_modules
 02-back-end-dev-and-apis/04-back-end-projects/02-request-header-parser-microservice/.env
+02-back-end-dev-and-apis/04-back-end-projects/03-url-shortener-microservice/.env
+02-back-end-dev-and-apis/04-back-end-projects/04-exercise-tracker/.env
+02-back-end-dev-and-apis/04-back-end-projects/05-file-metadata-microservice/.env
